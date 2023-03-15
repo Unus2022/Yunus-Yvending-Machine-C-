@@ -212,6 +212,7 @@ public class VendingMachine
 
             Console.WriteLine(answer);
             return answer == 'y';
+            
         }
     }
 }
